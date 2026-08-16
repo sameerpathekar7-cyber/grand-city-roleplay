@@ -16,7 +16,7 @@ Open `script.js` and replace the `https://example.com` / `REPLACE_...` values wi
 - Candidate Room 2
 - Organisation Server 1
 - Organisation Server 2
-- Admin Server
+
 
 ## Customise organisations
 The four organisation cards are placeholders in `index.html`. Replace their names/descriptions with your real organisations.
@@ -31,5 +31,4 @@ This is a static HTML/CSS/JS website, so it can be deployed to GitHub Pages or C
 - Organisation Server 01: https://discord.gg/bdNXmpEkX
 - Organisation Server 02: https://discord.gg/XnPeKCuRh
 - Game: Coming soon
-- Global Discord: not supplied yet
-- Admin Server: not supplied yet
+- Global Discord: https://discord.gg/ZrdcWg6J5
